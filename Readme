@@ -1,0 +1,48 @@
+# My Personal Portfolio Website
+
+This is a simple personal portfolio website built using HTML and hosted using **GitHub Pages**.
+
+## 🚀 Live Demo
+[Click here to visit my website](https://harshalv21.github.io/github-pages/)  
+(Replace `your-repo-name` with your actual repo name)
+
+---
+
+## 📄 Features
+- Personal introduction and bio
+- Links to my GitHub and LinkedIn profiles
+- Fully responsive (you can enhance it with CSS later)
+- Hosted for free using GitHub Pages
+
+---
+
+## 🛠 Tools Used
+- **HTML5**
+- **GitHub Pages** (for hosting)
+
+---
+
+## 📂 Project Structure
+📁 project-folder
+├── index.html # Main HTML file
+└── README.md # Project documentation
+
+
+## 🔧 How to Run Locally
+1. Clone this repo:
+   ```bash
+   git clone https://github.com/Harshalv21/your-repo-name.git
+Open index.html in your browser.
+
+##🌐 How to Deploy on GitHub Pages
+
+1. Create an index.html file.
+2. Push it to a new GitHub repo.
+3. Go to repo → Settings → Pages → enable GitHub Pages.
+4. Select main branch and root folder.
+5. Access live website from the link GitHub gives.
+
+📬 Connect with Me
+
+GitHub: github.com/Harshalv21
+LinkedIn: (https://www.linkedin.com/in/harshal-vernekar-8ab435360/)
